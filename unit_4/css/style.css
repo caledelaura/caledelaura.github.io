@@ -1,12 +1,12 @@
 body {
-	font-family: Helvetica;
+	font-family: 'Pontano Sans', sans-serif;
 	font-size: 36px;
 	text-align: center;
 	background-color: black;
 	color: white;
 }
 h1 {
-	font-family: 'Lobster', cursive;
+	font-family: 'Fugaz One', cursive;
 	text-transform: lowercase;
 	font-size: 80px;
 	text-align: center;
