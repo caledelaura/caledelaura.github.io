@@ -1,9 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald');
-@import url('https://fonts.googleapis.com/css?family=Lobster|Oswald');
-@import url('https://fonts.googleapis.com/css?family=Lobster|Oswald|Signika');
-
+@import url('https://fonts.googleapis.com/css?family=Lobster|Oswald|Questrial|Signika');
 body, p {
-	font-family: 'Signika', sans-serif;
+	font-family: 'Questrial', sans-serif;
 	font-size: 36px;
 	text-align: center;
 	background-color: black;
@@ -16,7 +13,7 @@ h1 {
 	text-align: center;
 }
 #slogan {
-	font-family: 'Signika', sans-serif;
+	font-family: 'Questrial', sans-serif;
 	font-size: 48px;
 	text-align: center;
 }
