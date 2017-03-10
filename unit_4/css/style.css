@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster|Oswald|Questrial|Signika');
+@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans+Condensed:300');
+
 body, p {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 36px;
 	text-align: center;
 	background-color: black;
@@ -13,7 +14,7 @@ h1 {
 	text-align: center;
 }
 #slogan {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 48px;
 	text-align: center;
 }
