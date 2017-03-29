@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster|Questrial');
 
-body, p {
+body{
 	font-family: 'Questrial', sans-serif;
 	font-size: 36px;
 	text-align: center;
@@ -34,6 +34,7 @@ h3, nav {
 .description {
 	font-family: 'Questrial', sans-serif;
 	font-size: 36px;
+	color: white;
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
