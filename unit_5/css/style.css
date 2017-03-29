@@ -42,7 +42,7 @@ img {
 	border: 1px black solid;
 	padding: 20px;
 }
-.list {
+.list, p {
 	background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 20px;
