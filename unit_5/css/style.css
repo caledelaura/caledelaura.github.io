@@ -7,17 +7,19 @@ body, p {
 	background-color: black;
 	color: white;
 }
-h1 {
+h1, header {
 	font-family: 'Lobster', cursive;
 	text-transform: lowercase;
 	font-size: 80px;
 	text-align: center;
-	background-color: yellow;
+	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
 }
-h2 {
-
+.wrapper{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
 }
 h3, nav {
 	background-color: #E8666A;
