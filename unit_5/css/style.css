@@ -7,7 +7,7 @@ body, p {
 	background-color: black;
 	color: white;
 }
-h1, header {
+h1, header, h2 {
 	font-family: 'Lobster', cursive;
 	text-transform: lowercase;
 	font-size: 80px;
@@ -16,7 +16,7 @@ h1, header {
 	border: 1px black solid;
 	padding: 20px;
 }
-.wrapper{
+.wrapper { 
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
@@ -36,4 +36,10 @@ img {
 	width: 1100px;
 	display: block;
 	margin: auto;
+}
+.aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+
 }
