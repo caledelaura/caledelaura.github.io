@@ -12,6 +12,9 @@ h1 {
 	text-transform: lowercase;
 	font-size: 80px;
 	text-align: center;
+	background-color: yellow;
+	border: 1px black solid;
+	padding: 20px;
 }
 #slogan {
 	font-family: 'Questrial', sans-serif;
