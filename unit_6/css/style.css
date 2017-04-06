@@ -68,7 +68,7 @@ h3, nav {
 	border: 1px black solid;
 	padding: 10px;
 	float: left;
-	width: 45%;
+	width: 50%;
 }
 #right {
 	background-color: white;
@@ -76,7 +76,7 @@ h3, nav {
 	border: 1px black solid;
 	padding: 10px;
 	float: right;
-	width: 45%;
+	width: 50%;
 }
 .clearfix:after {
 	visibility: hidden;
