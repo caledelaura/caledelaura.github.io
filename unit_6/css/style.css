@@ -60,7 +60,7 @@ h3, nav {
 	padding: 20px;
 }
 #two_column {
-	background-color: #FFB7CF;
+	background-color: black;
 	border: 1px black solid;
 }
 #left {
@@ -68,7 +68,7 @@ h3, nav {
 	border: 1px black solid;
 	padding: 10px;
 	float: left;
-	width: 50%;
+	width: 48%;
 }
 #right {
 	background-color: white;
@@ -76,7 +76,7 @@ h3, nav {
 	border: 1px black solid;
 	padding: 10px;
 	float: right;
-	width: 50%;
+	width: 48%;
 }
 .clearfix:after {
 	visibility: hidden;
