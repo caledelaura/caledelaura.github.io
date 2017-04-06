@@ -79,16 +79,23 @@ footer {
 	padding: 20px;
 }
 #left {
-	background-color: #E582A2;
+	background-color: black;
 	border: 1px black solid;
 	padding: 20px;
 }
 #right {
-	background-color: #E55b88;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 }
-
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
 
 
 
