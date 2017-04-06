@@ -68,11 +68,15 @@ h3, nav {
 	background-color: black;
 	border: 1px black solid;
 	padding: 20px;
+	float: left;
+	width: 50%;
 }
 #right {
 	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
+	float: right;
+	width: 50%;
 }
 .clearfix:after {
 	visibility: hidden;
