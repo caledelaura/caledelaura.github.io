@@ -4,16 +4,16 @@ body{
 	font-family: 'Questrial', sans-serif;
 	font-size: 36px;
 	text-align: center;
-	background-color: white;
+	background-color: #FE4A49;
 	color: white;
 }
 h1, header, h2 {
 	font-family: 'Lobster', cursive;
-	color: black;
+	color: #FED766;
 	text-transform: lowercase;
 	font-size: 80px;
 	text-align: center;
-	background-color: #FFED74;
+	background-color: #009fb7;
 	border: 1px black solid;
 	padding: 20px;
 }
