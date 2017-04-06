@@ -28,6 +28,7 @@ h3, nav {
 }
 #left {
 	background-color: violet;
+	color: black;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -40,16 +41,6 @@ h3, nav {
 	float: right;
 	width: 62%;
 }
-
-
-
-
-
-
-
-
-
-
 #slogan {
 	font-family: 'Questrial', sans-serif;
 	font-size: 48px;
